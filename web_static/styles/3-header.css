@@ -11,4 +11,5 @@ header .logo{
     width: 140px;
     border-bottom: 0px;
     margin-left: 20px;
+    cursor: pointer;
 }

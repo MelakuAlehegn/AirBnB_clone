@@ -48,6 +48,7 @@ h4{
 .popover{
     /* display: none; */
     background-color: #FAFAFA;
+    z-index: 1;
     color: #484848;
     list-style: none;
     padding: 0;

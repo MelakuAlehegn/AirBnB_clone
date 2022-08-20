@@ -25,5 +25,7 @@
 }
 .places article h2{
     font-size: 30px;
-    align-items: center;
+    text-align: center;
+    width: 70%;
+    align-content: center;
 }
